@@ -1,0 +1,34 @@
+# Arquivos de ambiente
+.env
+
+# Certificados digitais
+*.pfx
+*.p12
+*.a1
+*.cer
+*.crt
+*.key
+
+# Pasta de certificados enviados
+certificates/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pynfe
+python-decouple
+lxml
+cryptography
+python-multipart
+sqlalchemy
